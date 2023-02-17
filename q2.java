@@ -60,5 +60,5 @@ public class q2
         }
     }
 
-    // Nishant is NISHANT
+    // Nishant 
 }
